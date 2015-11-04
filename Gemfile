@@ -52,3 +52,5 @@ gem 'simple_form'
 gem 'devise'
 
 gem 'rename'
+
+gem 'dotenv-rails', :groups => [:development, :test]
